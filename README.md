@@ -1,2 +1,2 @@
 # Tebak-Angka
-Game sederhana WPU
+Game sederhana dari channel Youtube WPU
